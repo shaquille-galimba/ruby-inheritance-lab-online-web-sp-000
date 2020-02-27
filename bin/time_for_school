@@ -24,8 +24,8 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 # jim.last_name = "Jimbo"
 # jim.learn("Stupidity")
 
-more_knowledge = avi.teach
 
-steve.learn(more_knowledge)
+
+steve.learn(some_knowledge)
 
 puts "Steve currently learned two things: '#{steve.knowledge.first}' and '#{steve.knowledge.last}' from #{avi.first_name}"
