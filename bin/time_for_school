@@ -38,4 +38,4 @@ most_important_knowledge = avi.teach
 
 shaq.learn(most_important_knowledge)
 
-puts "#{shaq.first_name} just learned '#{most_important_knowledge}' from #{avi.first_name}"
+puts "#{shaq.first_name} just learned '#{most_important_knowledge}' from #{avi.first_name}."
